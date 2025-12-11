@@ -1,0 +1,7 @@
+{
+  "name": "TDU Smart Admissions 2025",
+  "description": "Hệ thống Tư vấn Tuyển sinh Thông minh Đại học Tây Đô 2025 - Smart AI Admission Counseling System",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
